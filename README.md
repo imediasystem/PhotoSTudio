@@ -1,4 +1,4 @@
-[<img width="1900" height="921" alt="Zrzut ekranu 2025-08-18 102539" src="https://github.com/user-attachments/assets/b5d55391-018d-42e1-97af-6b8350d66f9d" />](https://imediasystem.github.io/PhotoSTudio/)
+[<img width="1899" height="924" alt="Zrzut ekranu 2025-10-01 090821" src="https://github.com/user-attachments/assets/13a85210-b12d-4500-bd50-5f7c52d62c0c" />](https://imediasystem.github.io/PhotoSTudio/)
 
 ## 🔥 Project Name - PHOTOSTUDIO
 See the live version of [PHOTOSTUDIO](https://imediasystem.github.io/PhotoSTudio/) ↗️
